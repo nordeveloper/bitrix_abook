@@ -1,0 +1,2 @@
+<?
+$MESS['menu_text'] = '

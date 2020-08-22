@@ -1,0 +1,2 @@
+<?php
+$MESS["AB_INSTALL_MODULE_NAME"] = "
